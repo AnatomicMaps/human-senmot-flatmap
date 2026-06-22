@@ -24,28 +24,14 @@
             "href": "svgs/muscular-inner/muscular-inner-anterior.svg",
             "kind": "detail",
             "feature": "muscular_outer_anterior",
-            "zoom": 7
+            "zoom": 6
         },
         {
             "id": "muscular-inner-posterior",
             "href": "svgs/muscular-inner/muscular-inner-posterior.svg",
             "kind": "detail",
             "feature": "muscular_outer_posterior",
-            "zoom": 7
-        },
-        {
-            "id": "skeletal-anterior",
-            "href": "svgs/skeletal/skeletal-anterior.svg",
-            "kind": "detail",
-            "feature": "muscular_inner_anterior",
-            "zoom": 9
-        },
-        {
-            "id": "skeletal-posterior",
-            "href": "svgs/skeletal/skeletal-posterior.svg",
-            "kind": "detail",
-            "feature": "muscular_inner_posterior",
-            "zoom": 9
+            "zoom": 6
         },
         {
             "id": "brain-spinal",
@@ -57,7 +43,5 @@
     "neuronConnectivity": [
         "NPO"
     ],
-    "enablePathZoomRange": true,
-    "proxyFeatures": "proxy_features.json",
-    "path-zoom-range": false
+    "proxyFeatures": "proxy_features.json"
 }
