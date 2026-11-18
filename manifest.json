@@ -4,6 +4,7 @@
     "description": "description.json",
     "properties": "properties.json",
     "sckan-version": "sckan-2026-02-11",
+    "attribution": "© <a href=\"https://www.auckland.ac.nz/en/abi.html\">Auckland Bioengineering Institute</a> · Anatomy layers based on <a href=\"https://www.figma.com/community/file/1320468164820924031/human-anatomy-component-system\">Human Anatomy Component System</a>, used under <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. Modified with custom map markers, coordinate polygons, and data annotations.",
     "sources": [
         {
             "id": "muscular-outer-anterior",
