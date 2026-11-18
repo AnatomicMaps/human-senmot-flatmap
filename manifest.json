@@ -11,28 +11,28 @@
             "href": "svgs/muscular-outer/muscular-outer-anterior.svg",
             "kind": "detail",
             "feature": "body_ventrum",
-            "zoom": 5
+            "zoom": 6
         },
         {
             "id": "muscular-outer-posterior",
             "href": "svgs/muscular-outer/muscular-outer-posterior.svg",
             "kind": "detail",
             "feature": "body_dorsum",
-            "zoom": 5
+            "zoom": 6
         },
         {
             "id": "muscular-inner-anterior",
             "href": "svgs/muscular-inner/muscular-inner-anterior.svg",
             "kind": "detail",
             "feature": "muscular_outer_anterior",
-            "zoom": 6
+            "zoom": 7
         },
         {
             "id": "muscular-inner-posterior",
             "href": "svgs/muscular-inner/muscular-inner-posterior.svg",
             "kind": "detail",
             "feature": "muscular_outer_posterior",
-            "zoom": 6
+            "zoom": 7
         },
         {
             "id": "brain-spinal",
